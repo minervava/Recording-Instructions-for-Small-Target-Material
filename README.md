@@ -57,7 +57,7 @@
     - **光圈值（F-stop）**：數值越小，光圈越大，進光量越多。
 
 <div style="text-align:center">
-    <img src="fig_ApertureFocus2.png" alt="fig 3.2.2" style="width:90%;">
+    <img src="fig_ApertureFocus3.png" alt="fig 3.2.2" style="width:90%;">
     <figcaption>（左）調焦環與光圈環示意圖。（右）手動旋轉以調整焦距及光圈。</figcaption>
 </div>
 </br>
